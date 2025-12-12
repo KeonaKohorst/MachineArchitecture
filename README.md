@@ -1,6 +1,6 @@
 # AVR Assembly & Arduino Labs
 
-This repository contains a collection of COSC211 laboratory exercises demonstrating low-level programming on AVR-based Arduino platforms using inline assembly.
+This repository contains a collection of my answers for laboratory exercises in my Machine Architetcure class, demonstrating low-level programming on AVR-based Arduino platforms using inline assembly.
 
 IF YOU ARE A STUDENT CURRENTLY DOING THESE LABS I ADVISE YOU DON'T USE THESE, TRY TO COMPLETE IT ON YOUR OWN FOR BEST LEARNING OUTCOMES.
 
@@ -56,4 +56,4 @@ Okanagan College
 
 ---
 
-*All code is intended for educational purposes as part of COSC211 coursework.*
+*All code is intended for educational purposes as part of COSC211 coursework. No lab documents are included in the repository as they do not belong to me.*
